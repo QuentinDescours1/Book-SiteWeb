@@ -8,6 +8,6 @@ Cette création comprend des parties de code Javascript disponibles en open sour
 
 Quelques erreurs subsistent mais ce site fait preuve de mon niveau actuel en langage HTML et CSS.
 
-Vous pouvez trouver la maquette, créée sur Figma, de celui-ci à l'adresse suivante : https://www.figma.com/file/i6iHvRspcR5jbT978ftwwN/Site-Artistique?type=design&node-id=210%3A807&mode=design&t=okInppBuYUfo5FwW-1
+Vous pouvez trouver la maquette à l'adresse suivante : https://www.figma.com/file/i6iHvRspcR5jbT978ftwwN/Site-Artistique?type=design&node-id=210%3A807&mode=design&t=okInppBuYUfo5FwW-1
 
 Ce lien comprend le Wireframe du site ainsi que la maquette PC et Mobile.
