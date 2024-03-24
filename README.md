@@ -1,3 +1,5 @@
+https://quentindescours1.github.io/Book-SiteWeb/
+
 Site web créé par moi même à la suite d'un projet lors du premier semestre de Licence 3 en Sciences de l'information et de la communication de Carlone à Nice.
 
 La consigne consistait à développer la maquette puis le site web d'une galerie d'art responsive comprenant 2 pages au minimum (ici la page d'accueil et la page nos nouveautés) à l'aide des langages HTML et CSS.
